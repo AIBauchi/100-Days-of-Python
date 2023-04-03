@@ -1,0 +1,1 @@
+# Write a Python script that calculates the average of a list of numbers with user input.
