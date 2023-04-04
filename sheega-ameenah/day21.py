@@ -1,0 +1,1 @@
+# Write a Python script that removes all vowels from a string with user input
